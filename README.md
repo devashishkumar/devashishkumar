@@ -13,8 +13,11 @@
   <li>https://github.com/devashishkumar/react-corona-tracker-app-india React Corona Tracker India</li>
   <li>https://github.com/devashishkumar/expressjs-swagger-setup Swagger Setup in Node JS</li>
 </ul>
+
 <hr/>
+
 📜 Recent blog posts
+
 <ul>
   <li>https://ashishkumar.hashnode.dev/node-js-cors enable cors in node/express application</li>
   <li>https://ashishkumar.hashnode.dev/setup-axios-in-vue-application Setup axios in Vue application</li>
@@ -23,8 +26,11 @@
   <li>https://ashishkumar.hashnode.dev/display-total-number-of-online-users-currently-node-js Total number of online users currently in node/express application</li>
   <li>https://ashishkumar.hashnode.dev/setup-multiple-swagger-url-in-node-js-application Setup multiple swagger URL in node/express application</li>
 </ul>
+
 <hr/>
+
 📜 npm packages
+
 <ul>
   <li>https://www.npmjs.com/package/google-maps-angular Angular Google maps library</li>
   <li>https://www.npmjs.com/package/chart-angular Angular chart library based on Chart JS</li>
@@ -32,8 +38,11 @@
   <li>https://www.npmjs.com/package/google-maps-vue-library Vue Google maps library</li>
   <li>https://www.npmjs.com/package/vue-file-upload-library Vue file upload library</li>
 </ul>
+
 <hr/>
+
 📜 npm profile, Blog, YouTube Channel
+
 <ul>
   <li>https://www.npmjs.com/~codewithashish npm packages</li>
   <li>https://ashishkumar.hashnode.dev/ blog URL</li>
