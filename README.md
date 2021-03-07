@@ -17,6 +17,15 @@
   <li>https://ashishkumar.hashnode.dev/setup-multiple-swagger-url-in-node-js-application Setup Multiple swagger URL in Node JS application</li>
 </ul>
 
+📜 npm packages
+<ul>
+  <li>https://www.npmjs.com/~codewithashish NPM profile</li>
+  <li>https://www.npmjs.com/package/google-maps-angular Angular Google Maps Library</li>
+  <li>https://www.npmjs.com/package/chart-angular Angular Chart Library based on Chart JS</li>
+  <li>https://www.npmjs.com/package/google-maps-vue-library Vue Google Maps Library</li>
+  <li>https://www.npmjs.com/package/vue-file-upload-library Vue File Upload Library</li>
+</ul>
+
 <!--
 **devashishkumar/devashishkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
