@@ -5,7 +5,7 @@
 ✨ Hobbies: Open Source Contributor, Blogger, Angulr/Vue Packages developer, Youtuber  
 ✨ Expertise: Angular, Typescript, Vue, Node JS, Express JS, mongodb, PHP, Laravel, Mysql, Javascript  
 
-<hr/>
+<hr style="border: 1px solid grey;"/>
 
 
 📜 Recent blog posts
