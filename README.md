@@ -19,11 +19,17 @@
 
 📜 npm packages
 <ul>
-  <li>https://www.npmjs.com/~codewithashish NPM profile</li>
   <li>https://www.npmjs.com/package/google-maps-angular Angular Google Maps Library</li>
   <li>https://www.npmjs.com/package/chart-angular Angular Chart Library based on Chart JS</li>
   <li>https://www.npmjs.com/package/google-maps-vue-library Vue Google Maps Library</li>
   <li>https://www.npmjs.com/package/vue-file-upload-library Vue File Upload Library</li>
+</ul>
+
+📜 npm profile, Blog, YouTube Channel
+<ul>
+  <li>https://www.npmjs.com/~codewithashish NPM profile</li>
+  <li>https://ashishkumar.hashnode.dev/ Blog URL</li>
+  <li>https://www.youtube.com/channel/UCLD9bY1vGXN7FGSdOM6BrHA Youtube Channel</li>
 </ul>
 
 <!--
