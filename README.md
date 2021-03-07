@@ -20,8 +20,8 @@
   <li>https://ashishkumar.hashnode.dev/setup-axios-in-vue-application Setup axios in Vue application</li>
   <li>https://ashishkumar.hashnode.dev/vue-js-dom-management Vue DOM Management</li>
   <li>https://ashishkumar.hashnode.dev/create-child-component-reference-in-vue Child component reference in Vue</li>
-  <li>https://ashishkumar.hashnode.dev/display-total-number-of-online-users-currently-node-js Total number of online users currently in Node</li>
-  <li>https://ashishkumar.hashnode.dev/setup-multiple-swagger-url-in-node-js-application Setup Multiple swagger URL in Node application</li>
+  <li>https://ashishkumar.hashnode.dev/display-total-number-of-online-users-currently-node-js Total number of online users currently in node/express application</li>
+  <li>https://ashishkumar.hashnode.dev/setup-multiple-swagger-url-in-node-js-application Setup multiple swagger URL in node/express application</li>
 </ul>
 <hr/>
 📜 npm packages
