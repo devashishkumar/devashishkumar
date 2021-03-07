@@ -16,6 +16,7 @@
 <hr/>
 📜 Recent blog posts
 <ul>
+  <li>https://ashishkumar.hashnode.dev/node-js-cors enable cors in node/express application</li>
   <li>https://ashishkumar.hashnode.dev/setup-axios-in-vue-application Setup Axios in Vue Application</li>
   <li>https://ashishkumar.hashnode.dev/vue-js-dom-management Vue DOM Management</li>
   <li>https://ashishkumar.hashnode.dev/create-child-component-reference-in-vue Child Component Reference in Vue</li>
@@ -33,9 +34,9 @@
 <hr/>
 📜 npm profile, Blog, YouTube Channel
 <ul>
-  <li>https://www.npmjs.com/~codewithashish NPM profile</li>
-  <li>https://ashishkumar.hashnode.dev/ Blog</li>
-  <li>https://www.youtube.com/channel/UCLD9bY1vGXN7FGSdOM6BrHA Youtube Channel</li>
+  <li>https://www.npmjs.com/~codewithashish</li>
+  <li>https://ashishkumar.hashnode.dev/</li>
+  <li>https://www.youtube.com/channel/UCLD9bY1vGXN7FGSdOM6BrHA</li>
 </ul>
 
 <!--
