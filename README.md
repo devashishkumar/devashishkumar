@@ -35,9 +35,9 @@
 <hr/>
 📜 npm profile, Blog, YouTube Channel
 <ul>
-  <li>https://www.npmjs.com/~codewithashish</li>
-  <li>https://ashishkumar.hashnode.dev/</li>
-  <li>https://www.youtube.com/channel/UCLD9bY1vGXN7FGSdOM6BrHA</li>
+  <li>https://www.npmjs.com/~codewithashish npm packages</li>
+  <li>https://ashishkumar.hashnode.dev/ blog URL</li>
+  <li>https://www.youtube.com/channel/UCLD9bY1vGXN7FGSdOM6BrHA Youtube channel</li>
 </ul>
 
 <!--
