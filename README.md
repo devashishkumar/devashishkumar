@@ -11,6 +11,7 @@
 <ul>
   <li>https://github.com/devashishkumar/vue-js-corona-tracker-app Vue Corona Tracker India</li>
   <li>https://github.com/devashishkumar/react-corona-tracker-app-india React Corona Tracker India</li>
+  <li>https://github.com/devashishkumar/expressjs-swagger-setup Swagger Setup in Node JS</li>
 </ul>
 <hr/>
 📜 Recent blog posts
