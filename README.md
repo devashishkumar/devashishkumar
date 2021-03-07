@@ -5,7 +5,7 @@
 ✨ Hobbies: Open Source Contributor, Blogger, Angulr/Vue Packages developer, Youtuber  
 ✨ Expertise: Angular, Typescript, Vue, Node JS, Express JS, mongodb, PHP, Laravel, Slim Framework, Mysql, Javascript  
 
-<hr style="border: .5px solid grey"/>
+<hr/>
 
 
 📜 Recent blog posts
@@ -16,7 +16,7 @@
   <li>https://ashishkumar.hashnode.dev/display-total-number-of-online-users-currently-node-js Total Number of online users currently in Node JS</li>
   <li>https://ashishkumar.hashnode.dev/setup-multiple-swagger-url-in-node-js-application Setup Multiple swagger URL in Node JS application</li>
 </ul>
-<hr style="border: 1px solid grey"/>
+<hr/>
 📜 npm packages
 <ul>
   <li>https://www.npmjs.com/package/google-maps-angular Angular Google Maps Library</li>
@@ -24,7 +24,7 @@
   <li>https://www.npmjs.com/package/google-maps-vue-library Vue Google Maps Library</li>
   <li>https://www.npmjs.com/package/vue-file-upload-library Vue File Upload Library</li>
 </ul>
-<hr style="border: 1px solid grey"/>
+<hr/>
 📜 npm profile, Blog, YouTube Channel
 <ul>
   <li>https://www.npmjs.com/~codewithashish NPM profile</li>
