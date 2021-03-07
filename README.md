@@ -41,7 +41,7 @@
 
 <hr/>
 
-📜 npm profile, Blog and YouTube Channel
+📜 npm packages, Blog and YouTube Channel
 
 <ul>
   <li>https://www.npmjs.com/~codewithashish npm packages</li>
