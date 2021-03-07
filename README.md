@@ -12,7 +12,7 @@
   <li>https://github.com/devashishkumar/vue-js-corona-tracker-app Vue Corona Tracker India</li>
   <li>https://github.com/devashishkumar/react-corona-tracker-app-india React Corona Tracker India</li>
 </ul>
-
+<hr/>
 📜 Recent blog posts
 <ul>
   <li>https://ashishkumar.hashnode.dev/setup-axios-in-vue-application Setup Axios in Vue Application</li>
