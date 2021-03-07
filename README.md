@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ✨ My name is Ashish Kumar  
-✨ I'm a Full Stack Developer, Open Source Contributor, Blogger, npm packages developer, Youtuber  
-✨ Hobbies: Contribution in open source projects, blogging, develop npm packages, part time youtuber  
+✨ I'm a Full Stack Developer, Open Source Contributor, Blogger, npm packages developer, YouTuber  
+✨ Hobbies: Contribution in open source projects, blogging, develop npm packages, part time YouTuber  
 ✨ Expertise: Angular, TypeScript, Vue, Node JS, Express JS, LoopBack API, MongoDB, MongoDB Cloud, PHP, Laravel, Slim Framework, Mysql, JavaScript, PWA developer  
 
 <hr/>
@@ -46,7 +46,7 @@
 <ul>
   <li>https://www.npmjs.com/~codewithashish npm packages</li>
   <li>https://ashishkumar.hashnode.dev/ blog URL</li>
-  <li>https://www.youtube.com/channel/UCLD9bY1vGXN7FGSdOM6BrHA Youtube channel</li>
+  <li>https://www.youtube.com/channel/UCLD9bY1vGXN7FGSdOM6BrHA YouTube channel</li>
 </ul>
 
 <!--
