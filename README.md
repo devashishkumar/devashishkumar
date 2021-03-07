@@ -28,6 +28,7 @@
 <ul>
   <li>https://www.npmjs.com/package/google-maps-angular Angular Google Maps Library</li>
   <li>https://www.npmjs.com/package/chart-angular Angular Chart Library based on Chart JS</li>
+  <li>https://www.npmjs.com/package/file-upload-angular Angular single/multiple file uploader</li>
   <li>https://www.npmjs.com/package/google-maps-vue-library Vue Google Maps Library</li>
   <li>https://www.npmjs.com/package/vue-file-upload-library Vue File Upload Library</li>
 </ul>
