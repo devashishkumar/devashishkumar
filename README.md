@@ -1,14 +1,9 @@
 ### Hi there 👋
 
-✨ My name is Ashish Kumar
-
-✨ I'm a Full Stack Developer
-
-✨ Hobbies: Open Source Contributor, Blogger, Angulr/Vue Packages developer, Youtuber
-
-✨ Current Company: KPMG
-
-✨ Expertise: Angular, Typescript, Vue, Node JS, Express JS, mongodb, PHP, Laravel, Mysql, Javascript
+✨ My name is Ashish Kumar  
+✨ I'm a Full Stack Developer  
+✨ Hobbies: Open Source Contributor, Blogger, Angulr/Vue Packages developer, Youtuber  
+✨ Expertise: Angular, Typescript, Vue, Node JS, Express JS, mongodb, PHP, Laravel, Mysql, Javascript  
 
 <!--
 **devashishkumar/devashishkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
