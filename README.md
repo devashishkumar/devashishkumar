@@ -9,9 +9,12 @@
 
 
 📜 Recent blog posts
-
 <ul>
-  <li>[a link](https://ashishkumar.hashnode.dev/setup-axios-in-vue-application) Setup Axios in Vue Application</li>
+  <li>https://ashishkumar.hashnode.dev/setup-axios-in-vue-application Setup Axios in Vue Application</li>
+  <li>https://ashishkumar.hashnode.dev/vue-js-dom-management Vue DOM Management</li>
+  <li>https://ashishkumar.hashnode.dev/create-child-component-reference-in-vue Child Component Reference in Vue</li>
+  <li>https://ashishkumar.hashnode.dev/display-total-number-of-online-users-currently-node-js Total Number of online users currently in Node JS</li>
+  <li>https://ashishkumar.hashnode.dev/setup-multiple-swagger-url-in-node-js-application Setup Multiple swagger URL in Node JS application</li>
 </ul>
 
 <!--
