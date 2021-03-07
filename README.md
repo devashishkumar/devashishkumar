@@ -2,8 +2,8 @@
 
 ✨ My name is Ashish Kumar  
 ✨ I'm a Full Stack Developer  
-✨ Hobbies: Open Source Contributor, Blogger, Angulr/Vue Packages developer, Youtuber  
-✨ Expertise: Angular, Typescript, Vue, Node JS, Express JS, mongodb, PHP, Laravel, Slim Framework, Mysql, Javascript  
+✨ Hobbies: Open Source Contributor, Blogger, npm packages developer, Youtuber  
+✨ Expertise: Angular, TypeScript, Vue, Node JS, Express JS, MongoDB, MongoDB Cloud PHP, Laravel, Slim Framework, Mysql, JavaScript  
 
 <hr/>
 
