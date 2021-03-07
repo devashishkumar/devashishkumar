@@ -5,6 +5,7 @@
 ✨ Hobbies: Open Source Contributor, Blogger, Angulr/Vue Packages developer, Youtuber  
 ✨ Expertise: Angular, Typescript, Vue, Node JS, Express JS, mongodb, PHP, Laravel, Mysql, Javascript  
 
+<hr/>
 <!--
 **devashishkumar/devashishkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
