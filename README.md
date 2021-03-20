@@ -57,7 +57,7 @@
 
 <ul>
   <li>https://www.npmjs.com/~codewithashish npm profile</li>
-  <li>https://ashishkumar.hashnode.dev/ blog</li>
+  <li>https://ashishkumar.hashnode.dev/ Blog</li>
   <li>https://www.youtube.com/channel/UCLD9bY1vGXN7FGSdOM6BrHA YouTube Channel</li>
 </ul>
 
