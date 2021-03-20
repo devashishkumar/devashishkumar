@@ -41,7 +41,7 @@
 
 <hr/>
 
-Latest YouTube Videos
+📜 Latest YouTube Videos
 
 <ul>
   <li>https://www.youtube.com/watch?v=ml5vUkImK-0 Detailed Explaination about Angular Library</li>
@@ -53,12 +53,12 @@ Latest YouTube Videos
 
 <hr/>
 
-📜 npm packages, Blog and YouTube Channel
+📜 npm profile, Blog and YouTube Channel
 
 <ul>
-  <li>https://www.npmjs.com/~codewithashish npm packages</li>
-  <li>https://ashishkumar.hashnode.dev/ blog URL</li>
-  <li>https://www.youtube.com/channel/UCLD9bY1vGXN7FGSdOM6BrHA YouTube channel</li>
+  <li>https://www.npmjs.com/~codewithashish npm profile</li>
+  <li>https://ashishkumar.hashnode.dev/ blog</li>
+  <li>https://www.youtube.com/channel/UCLD9bY1vGXN7FGSdOM6BrHA YouTube Channel</li>
 </ul>
 
 <!--
