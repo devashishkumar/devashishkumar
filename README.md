@@ -41,6 +41,18 @@
 
 <hr/>
 
+Latest YouTube Videos
+
+<ul>
+  <li>https://www.youtube.com/watch?v=ml5vUkImK-0 Detailed Explaination about Angular Library</li>
+  <li>https://www.youtube.com/watch?v=FXsOUBatxF8 Setup Axios Client in Vue Application</li>
+  <li>https://www.youtube.com/watch?v=z26CcVEcLzM Swagger Integration in Node JS</li>
+  <li>https://www.youtube.com/watch?v=YwuHO1YlTFc Advance MongoDB (MongoDB Cloud)</li>
+  <li>https://www.youtube.com/watch?v=RmByZdRDwdo Detailed Introduction to Vue JS 3 by developing an application</li>
+</ul>
+
+<hr/>
+
 📜 npm packages, Blog and YouTube Channel
 
 <ul>
