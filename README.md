@@ -19,6 +19,8 @@
 📜 Recent blog posts
 
 <ul>
+  <li>https://ashishkumar.hashnode.dev/deploy-docker-image-to-heroku deploy docker image to heroku</li>
+  <li>https://ashishkumar.hashnode.dev/angular-docker create angular docker container</li>
   <li>https://ashishkumar.hashnode.dev/node-js-cors enable cors in node/express application</li>
   <li>https://ashishkumar.hashnode.dev/setup-axios-in-vue-application Setup axios in Vue application</li>
   <li>https://ashishkumar.hashnode.dev/vue-js-dom-management Vue DOM Management</li>
