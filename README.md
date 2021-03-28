@@ -19,6 +19,7 @@
 📜 Recent blog posts
 
 <ul>
+  <li>https://ashishkumar.hashnode.dev/mongo-docker how to use mongo docker image</li>
   <li>https://ashishkumar.hashnode.dev/deploy-docker-image-to-heroku deploy docker image to heroku</li>
   <li>https://ashishkumar.hashnode.dev/angular-docker create angular docker container</li>
   <li>https://ashishkumar.hashnode.dev/node-js-cors enable cors in node/express application</li>
@@ -34,6 +35,7 @@
 📜 npm packages
 
 <ul>
+  <li>https://www.npmjs.com/package/file-saver-angular export data to csv/excel in angular</li>
   <li>https://www.npmjs.com/package/google-maps-angular Angular Google maps library</li>
   <li>https://www.npmjs.com/package/chart-angular Angular chart library based on Chart JS</li>
   <li>https://www.npmjs.com/package/file-upload-angular Angular single/multiple file uploader</li>
