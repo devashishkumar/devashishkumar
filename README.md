@@ -23,10 +23,8 @@
   <li>https://ashishkumar.hashnode.dev/deploy-docker-image-to-heroku deploy docker image to heroku</li>
   <li>https://ashishkumar.hashnode.dev/angular-docker create angular docker container</li>
   <li>https://ashishkumar.hashnode.dev/node-js-cors enable cors in node/express application</li>
-  <li>https://ashishkumar.hashnode.dev/setup-axios-in-vue-application Setup axios in Vue application</li>
   <li>https://ashishkumar.hashnode.dev/vue-js-dom-management Vue DOM Management</li>
   <li>https://ashishkumar.hashnode.dev/create-child-component-reference-in-vue Child component reference in Vue</li>
-  <li>https://ashishkumar.hashnode.dev/display-total-number-of-online-users-currently-node-js Total number of online users currently in node/express application</li>
   <li>https://ashishkumar.hashnode.dev/setup-multiple-swagger-url-in-node-js-application Setup multiple swagger URL in node/express application</li>
 </ul>
 
