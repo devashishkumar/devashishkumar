@@ -1,6 +1,6 @@
 ## Introduction
 
-My name is Ashish Kumar. I'm a Full Stack Developer, Open Source Contributor, Blogger, npm packages developer, YouTuber. My hobbies are to contribution in open source projects, blogging, develop npm packages, part time YouTuber. Expertise in Angular, TypeScript, Vue JS, Docker, Node JS, Express JS, LoopBack API, MongoDB, MongoDB Cloud, PHP, Laravel, Lumen API Framework, Mysql, JavaScript, jQuery, PWA developer
+Ashish Kumar, I'm a Full Stack Developer, Open Source Contributor, Blogger, npm packages developer, YouTuber. My hobbies are to contribution in open source projects, blogging, develop npm packages, part time YouTuber. Expertise in Angular, TypeScript, Vue JS, Docker, Node JS, Express JS, LoopBack API, MongoDB, MongoDB Cloud, PHP, Laravel, Lumen API Framework, Mysql, JavaScript, jQuery, PWA developer
 
 ### 📜 Recent Projects
 
