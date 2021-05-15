@@ -13,17 +13,17 @@ My name is Ashish Kumar. I'm a Full Stack Developer, Open Source Contributor, Bl
 1. [Node JS Kafka] <a href="https://ashishkumar.hashnode.dev/node-js-kafka">https://ashishkumar.hashnode.dev/node-js-kafka</a>
 2. [Setup Kafka in windows] <a href="https://ashishkumar.hashnode.dev/setup-kafka-in-windows">https://ashishkumar.hashnode.dev/setup-kafka-in-windows</a>
 3. [Node JS Kafka Producer/Subscriber] <a href="https://ashishkumar.hashnode.dev/node-js-kafka-producer-subscriber">https://ashishkumar.hashnode.dev/node-js-kafka-producer-subscriber</a>
-4. [Vue JS Docker] (https://ashishkumar.hashnode.dev/vue-docker)
-5. [Generate Charts in Vue JS] (https://ashishkumar.hashnode.dev/vue-js-charts)
+4. [Vue JS Docker] <a href="https://ashishkumar.hashnode.dev/vue-docker">https://ashishkumar.hashnode.dev/vue-docker</a>
+5. [Generate Charts in Vue JS] <a href="https://ashishkumar.hashnode.dev/vue-js-charts">https://ashishkumar.hashnode.dev/vue-docker</a>
 
 ### 📜 npm packages
 
-1. [Angular socket js library] (https://www.npmjs.com/package/socket-io-ngx)
-2. [Angular gantt chart library] (https://www.npmjs.com/package/gantt-chart-angular)
-3. [Export data to csv/excel in angular] (https://www.npmjs.com/package/file-saver-angular)
-4. [Angular Google maps library] (https://www.npmjs.com/package/google-maps-angular)
-5. [Angular chart library based on Chart JS] (https://www.npmjs.com/package/chart-angular)
-6. [Angular single/multiple file uploader] (https://www.npmjs.com/package/file-upload-angular)
+1. [Angular socket js library] <a href="https://www.npmjs.com/package/socket-io-ngx">https://www.npmjs.com/package/socket-io-ngx)</a>
+2. [Angular gantt chart library] <a href="https://www.npmjs.com/package/gantt-chart-angular">https://www.npmjs.com/package/gantt-chart-angular</a>
+3. [Export data to csv/excel in angular] <a href="https://www.npmjs.com/package/file-saver-angular">https://www.npmjs.com/package/file-saver-angular</a>
+4. [Angular Google maps library] <a href="https://www.npmjs.com/package/google-maps-angular">https://www.npmjs.com/package/google-maps-angular</a>
+5. [Angular chart library based on Chart JS] <a href="https://www.npmjs.com/package/chart-angular">https://www.npmjs.com/package/chart-angular</a>
+6. [Angular single/multiple file uploader] <a href="https://www.npmjs.com/package/file-upload-angular">https://www.npmjs.com/package/file-upload-angular</a>
 
 ### 📜 Recent YouTube Videos
 
