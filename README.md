@@ -1,3 +1,6 @@
+
+![Visitor Count](https://profile-counter.glitch.me/{devashishkumar}/count.svg)
+
 ### Hi there 👋
 
 ✨ My name is Ashish Kumar  
