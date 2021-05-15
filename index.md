@@ -18,7 +18,7 @@ My name is Ashish Kumar. I'm a Full Stack Developer, Open Source Contributor, Bl
 
 ### 📜 npm packages
 
-1. [Angular socket js library] <a href="https://www.npmjs.com/package/socket-io-ngx">https://www.npmjs.com/package/socket-io-ngx)</a>
+1. [Angular socket js library] <a href="https://www.npmjs.com/package/socket-io-ngx">https://www.npmjs.com/package/socket-io-ngx</a>
 2. [Angular gantt chart library] <a href="https://www.npmjs.com/package/gantt-chart-angular">https://www.npmjs.com/package/gantt-chart-angular</a>
 3. [Export data to csv/excel in angular] <a href="https://www.npmjs.com/package/file-saver-angular">https://www.npmjs.com/package/file-saver-angular</a>
 4. [Angular Google maps library] <a href="https://www.npmjs.com/package/google-maps-angular">https://www.npmjs.com/package/google-maps-angular</a>
@@ -27,16 +27,16 @@ My name is Ashish Kumar. I'm a Full Stack Developer, Open Source Contributor, Bl
 
 ### 📜 Recent YouTube Videos
 
-1. [Angular Library] (https://www.youtube.com/watch?v=ml5vUkImK-0)
-2. [Setup Axios client in Vue Application] (https://www.youtube.com/watch?v=FXsOUBatxF8)
-3. [Swagger implementation in node js application] (https://www.youtube.com/watch?v=z26CcVEcLzM)
-4. [Advanced MongoDB, MongoDB Cloud] (https://www.youtube.com/watch?v=YwuHO1YlTFc)
-5. [Detailed introduction about Vue JS Application] (https://www.youtube.com/watch?v=RmByZdRDwdo)
+1. [Angular Library] <a href="https://www.youtube.com/watch?v=ml5vUkImK-0">https://www.youtube.com/watch?v=ml5vUkImK-0</a>
+2. [Setup Axios client in Vue Application] <a href="https://www.youtube.com/watch?v=FXsOUBatxF8">https://www.youtube.com/watch?v=FXsOUBatxF8</a>
+3. [Swagger implementation in node js application] <a href="https://www.youtube.com/watch?v=z26CcVEcLzM">https://www.youtube.com/watch?v=z26CcVEcLzM</a>
+4. [Advanced MongoDB, MongoDB Cloud] <a href="https://www.youtube.com/watch?v=YwuHO1YlTFc">https://www.youtube.com/watch?v=YwuHO1YlTFc</a>
+5. [Detailed introduction about Vue JS Application] <a href="https://www.youtube.com/watch?v=RmByZdRDwdo">https://www.youtube.com/watch?v=RmByZdRDwdo</a>
 
 ### 📜 npm profile, Blog and YouTube Channel
 
-1. [npm profile] (https://www.npmjs.com/~codewithashish)
-2. [blog] (https://ashishkumar.hashnode.dev)*
-3. [YouTube Channel] (https://www.youtube.com/channel/UCLD9bY1vGXN7FGSdOM6BrHA)
+1. [npm profile] <a href="https://www.npmjs.com/~codewithashish">https://www.npmjs.com/~codewithashish</a>
+2. [blog] <a href="https://ashishkumar.hashnode.dev">https://ashishkumar.hashnode.dev</a>
+3. [YouTube Channel] <a href="https://www.youtube.com/channel/UCLD9bY1vGXN7FGSdOM6BrHA">https://www.youtube.com/channel/UCLD9bY1vGXN7FGSdOM6BrHA</a>
 
 
