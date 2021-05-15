@@ -20,7 +20,7 @@ Ashish Kumar, I'm a Full Stack Developer, Open Source Contributor, Blogger, npm 
 
 1. [Angular socket js library] <a href="https://www.npmjs.com/package/socket-io-ngx">https://www.npmjs.com/package/socket-io-ngx</a>
 2. [Angular gantt chart library] <a href="https://www.npmjs.com/package/gantt-chart-angular">https://www.npmjs.com/package/gantt-chart-angular</a>
-3. [Export data to csv/excel in angular] <a href="https://www.npmjs.com/package/file-saver-angular">https://www.npmjs.com/package/file-saver-angular</a>
+3. [Angular export data to csv/excel] <a href="https://www.npmjs.com/package/file-saver-angular">https://www.npmjs.com/package/file-saver-angular</a>
 4. [Angular Google maps library] <a href="https://www.npmjs.com/package/google-maps-angular">https://www.npmjs.com/package/google-maps-angular</a>
 5. [Angular chart library based on Chart JS] <a href="https://www.npmjs.com/package/chart-angular">https://www.npmjs.com/package/chart-angular</a>
 6. [Angular single/multiple file uploader] <a href="https://www.npmjs.com/package/file-upload-angular">https://www.npmjs.com/package/file-upload-angular</a>
