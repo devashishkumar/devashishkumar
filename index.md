@@ -4,7 +4,7 @@ My name is Ashish Kumar. I'm a Full Stack Developer, Open Source Contributor, Bl
 
 ### 📜 Recent Projects
 
-1. [Vue Corona Trakcer India] (https://github.com/devashishkumar/vue-js-corona-tracker-app)
+1. [Vue Corona Trakcer India] (<a href="https://github.com/devashishkumar/vue-js-corona-tracker-app">https://github.com/devashishkumar/vue-js-corona-tracker-app</a>)
 2. [React Corona Trakcer India] (https://github.com/devashishkumar/react-corona-tracker-app-india)
 3. [Node JS Swagger] (https://github.com/devashishkumar/expressjs-swagger-setup)
 
