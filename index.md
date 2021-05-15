@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/{devashishkumar}/count.svg)
+
 ## Introduction
 
 Ashish Kumar, I'm a Full Stack Developer, Open Source Contributor, Blogger, npm packages developer, YouTuber. My hobbies are to contribution in open source projects, blogging, develop npm packages, part time YouTuber. Expertise in Angular, TypeScript, Vue JS, Docker, Node JS, Express JS, LoopBack API, MongoDB, MongoDB Cloud, PHP, Laravel, Lumen API Framework, Mysql, JavaScript, jQuery, PWA developer
@@ -38,5 +40,4 @@ Ashish Kumar, I'm a Full Stack Developer, Open Source Contributor, Blogger, npm 
 1. [npm profile] <a href="https://www.npmjs.com/~codewithashish">https://www.npmjs.com/~codewithashish</a>
 2. [blog] <a href="https://ashishkumar.hashnode.dev">https://ashishkumar.hashnode.dev</a>
 3. [YouTube Channel] <a href="https://www.youtube.com/channel/UCLD9bY1vGXN7FGSdOM6BrHA">https://www.youtube.com/channel/UCLD9bY1vGXN7FGSdOM6BrHA</a>
-
 
