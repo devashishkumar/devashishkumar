@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/devashishkumar/devashishkumar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Ashish Kumar. I'm a Full Stack Developer, Open Source Contributor, Blogger, npm packages developer, YouTuber. My hobbies are to contribution in open source projects, blogging, develop npm packages, part time YouTuber. Expertise in Angular, TypeScript, Vue JS, Docker, Node JS, Express JS, LoopBack API, MongoDB, MongoDB Cloud, PHP, Laravel, Lumen API Framework, Mysql, JavaScript, jQuery, PWA developer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 📜 Recent Projects
 
-### Markdown
+1. Vue Corona Trakcer India https://github.com/devashishkumar/vue-js-corona-tracker-app
+2. React Corona Trakcer India https://github.com/devashishkumar/react-corona-tracker-app-india
+3. Node JS Swagger https://github.com/devashishkumar/expressjs-swagger-setup
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 📜 Recent blog posts
 
-```markdown
-Syntax highlighted code block
+1. Node JS Kafka https://ashishkumar.hashnode.dev/node-js-kafka
+2. Setup Kafka in windows https://ashishkumar.hashnode.dev/setup-kafka-in-windows
+3. Node JS Kafka Producer/Subscriber https://ashishkumar.hashnode.dev/node-js-kafka-producer-subscriber
+4. Vue JS Docker https://ashishkumar.hashnode.dev/vue-docker
+5. Generate Charts in Vue JS https://ashishkumar.hashnode.dev/vue-js-charts
 
-# Header 1
-## Header 2
-### Header 3
+### 📜 npm packages
 
-- Bulleted
-- List
+1. Angular socket js library https://www.npmjs.com/package/socket-io-ngx
+2. Angular gantt chart library https://www.npmjs.com/package/gantt-chart-angular
+3. Export data to csv/excel in angular https://www.npmjs.com/package/file-saver-angular
+4. Angular Google maps library https://www.npmjs.com/package/google-maps-angular
+5. Angular chart library based on Chart JS https://www.npmjs.com/package/chart-angular
+6. Angular single/multiple file uploader https://www.npmjs.com/package/file-upload-angular
 
-1. Numbered
-2. List
+### 📜 Recent YouTube Videos
 
-**Bold** and _Italic_ and `Code` text
+1. https://www.youtube.com/watch?v=ml5vUkImK-0 Angular Library
+2. https://www.youtube.com/watch?v=FXsOUBatxF8 Setup Axios client in Vue Application
+3. https://www.youtube.com/watch?v=z26CcVEcLzM Swagger implementation in node js application
+4. https://www.youtube.com/watch?v=YwuHO1YlTFc Advanced MongoDB, MongoDB Cloud
+5. https://www.youtube.com/watch?v=RmByZdRDwdo Detailed introduction about Vue JS Application
 
-[Link](url) and ![Image](src)
-```
+### 📜 npm profile, Blog and YouTube Channel
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. https://www.npmjs.com/~codewithashish npm profile
+2. https://ashishkumar.hashnode.dev blog
+3. https://www.youtube.com/channel/UCLD9bY1vGXN7FGSdOM6BrHA YouTube Channel
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devashishkumar/devashishkumar/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
