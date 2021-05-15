@@ -4,15 +4,15 @@ My name is Ashish Kumar. I'm a Full Stack Developer, Open Source Contributor, Bl
 
 ### 📜 Recent Projects
 
-1. [Vue Corona Trakcer India] <a title="Vue JS Corona Tracker" href="https://github.com/devashishkumar/vue-js-corona-tracker-app">https://github.com/devashishkumar/vue-js-corona-tracker-app</a>
-2. [React Corona Trakcer India] (https://github.com/devashishkumar/react-corona-tracker-app-india)
-3. [Node JS Swagger] (https://github.com/devashishkumar/expressjs-swagger-setup)
+1. [Vue Corona Trakcer India] <a href="https://github.com/devashishkumar/vue-js-corona-tracker-app">https://github.com/devashishkumar/vue-js-corona-tracker-app</a>
+2. [React Corona Trakcer India] <a href="https://github.com/devashishkumar/react-corona-tracker-app-india>https://github.com/devashishkumar/react-corona-tracker-app-india</a>
+  3. [Node JS Swagger] <a href="https://github.com/devashishkumar/expressjs-swagger-setup">https://github.com/devashishkumar/expressjs-swagger-setup</a>
 
 ### 📜 Recent blog posts
 
-1. [Node JS Kafka] (https://ashishkumar.hashnode.dev/node-js-kafka)
-2. [Setup Kafka in windows] (https://ashishkumar.hashnode.dev/setup-kafka-in-windows)
-3. [Node JS Kafka Producer/Subscriber] (https://ashishkumar.hashnode.dev/node-js-kafka-producer-subscriber)
+1. [Node JS Kafka] <a href="https://ashishkumar.hashnode.dev/node-js-kafka">https://ashishkumar.hashnode.dev/node-js-kafka</a>
+2. [Setup Kafka in windows] <a href="https://ashishkumar.hashnode.dev/setup-kafka-in-windows">https://ashishkumar.hashnode.dev/setup-kafka-in-windows</a>
+3. [Node JS Kafka Producer/Subscriber] <a href="https://ashishkumar.hashnode.dev/node-js-kafka-producer-subscriber">https://ashishkumar.hashnode.dev/node-js-kafka-producer-subscriber</a>
 4. [Vue JS Docker] (https://ashishkumar.hashnode.dev/vue-docker)
 5. [Generate Charts in Vue JS] (https://ashishkumar.hashnode.dev/vue-js-charts)
 
