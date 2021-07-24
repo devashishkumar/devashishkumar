@@ -50,11 +50,7 @@
 📜 Latest YouTube Videos
 
 <ul>
-  <li>https://www.youtube.com/watch?v=ml5vUkImK-0 Detailed Explaination about Angular Library</li>
-  <li>https://www.youtube.com/watch?v=FXsOUBatxF8 Setup Axios Client in Vue Application</li>
-  <li>https://www.youtube.com/watch?v=z26CcVEcLzM Swagger Integration in Node JS</li>
-  <li>https://www.youtube.com/watch?v=YwuHO1YlTFc Advance MongoDB (MongoDB Cloud)</li>
-  <li>https://www.youtube.com/watch?v=RmByZdRDwdo Detailed Introduction to Vue JS 3 by developing an application</li>
+  <li>https://www.youtube.com/watch?v=39DqOhkyt1I Advance MongoDB (MongoDB Cloud)</li>
 </ul>
 
 <hr/>
@@ -64,7 +60,7 @@
 <ul>
   <li>https://www.npmjs.com/~codewithashish npm profile</li>
   <li>https://ashishkumar.hashnode.dev/ Blog</li>
-  <li>https://www.youtube.com/channel/UCLD9bY1vGXN7FGSdOM6BrHA YouTube Channel</li>
+  <li>https://www.youtube.com/channel/UCWDS_TTlhK_T3aTUV-23I6Q YouTube Channel</li>
 </ul>
 
 <!--
