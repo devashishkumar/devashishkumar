@@ -37,8 +37,8 @@
 📜 npm packages
 
 <ul>
-  <li>https://www.npmjs.com/package/gantt-chart-angular angular gantt chart library</li>
-  <li>https://www.npmjs.com/package/file-saver-angular export data to csv/excel in angular</li>
+  <li>https://www.npmjs.com/package/gantt-chart-angular Angular gantt chart library</li>
+  <li>https://www.npmjs.com/package/file-saver-angular Export data to csv/excel in angular</li>
   <li>https://www.npmjs.com/package/google-maps-angular Angular Google maps library</li>
   <li>https://www.npmjs.com/package/chart-angular Angular chart library based on Chart JS</li>
   <li>https://www.npmjs.com/package/file-upload-angular Angular single/multiple file uploader</li>
