@@ -22,6 +22,7 @@
 📜 Recent blog posts
 
 <ul>
+  <li>https://ashishkumar.hashnode.dev/what-is-openai</li>
   <li>https://ashishkumar.hashnode.dev/how-to-use-mongo-docker-image how to use mongo docker image</li>
   <li>https://ashishkumar.hashnode.dev/deploy-docker-image-to-heroku deploy docker image to heroku</li>
   <li>https://ashishkumar.hashnode.dev/angular-docker create angular docker container</li>
