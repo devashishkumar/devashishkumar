@@ -59,9 +59,9 @@
 📜 npm profile, Blog and YouTube Channel
 
 <ul>
-  <li>https://www.npmjs.com/~codewithashish npm profile</li>
-  <li>https://ashishkumar.hashnode.dev/ Blog</li>
-  <li>https://www.youtube.com/channel/UCWDS_TTlhK_T3aTUV-23I6Q YouTube Channel</li>
+  <li>https://www.npmjs.com/~codewithashish</li>
+  <li>https://ashishkumar.hashnode.dev/</li>
+  <li>https://www.youtube.com/channel/UCWDS_TTlhK_T3aTUV-23I6Q</li>
 </ul>
 
 <!--
