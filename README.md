@@ -56,7 +56,7 @@
 
 <hr/>
 
-📜 npm profile, Blog and YouTube Channel
+📜 npm profile, Blog and YouTube channel
 
 <ul>
   <li>https://www.npmjs.com/~codewithashish</li>
