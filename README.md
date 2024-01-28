@@ -60,8 +60,9 @@
 
 <ul>
   <li>https://www.npmjs.com/~codewithashish</li>
-  <li>https://ashishkumar.hashnode.dev/</li>
+  <li>https://ashishkumar.hashnode.dev</li>
   <li>https://www.youtube.com/channel/UCWDS_TTlhK_T3aTUV-23I6Q</li>
+  <li>https://leetcode.com/devashishkumar</li>
 </ul>
 
 <!--
