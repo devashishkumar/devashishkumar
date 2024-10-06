@@ -6,7 +6,7 @@
 ✨ My name is Ashish Kumar  
 ✨ I'm a Full Stack Developer, Open Source Contributor, Blogger, npm packages developer, YouTuber  
 ✨ Hobbies: Contribution in open source projects, blogging, develop npm packages, part time YouTuber  
-✨ Expertise: Angular, TypeScript, Vue JS, Docker, Node JS, Express JS, LoopBack API, MongoDB, MongoDB Cloud, PHP, Laravel, Lumen API Framework, Mysql, JavaScript, jQuery, PWA developer  
+✨ Expertise: Angular, TypeScript, Vue JS, Docker, Node JS, Express JS, LoopBack API, MongoDB, MongoDB Cloud, GraphQL, PHP, Laravel, Lumen API Framework, MySQL, JavaScript, jQuery, PWA developer  
 
 <hr/>
 
@@ -56,13 +56,12 @@
 
 <hr/>
 
-📜 npm profile, Blog, YouTube channel and leetcode profile
+📜 npm profile, Blog and YouTube channel profile
 
 <ul>
   <li>https://www.npmjs.com/~codewithashish</li>
   <li>https://ashishkumar.hashnode.dev</li>
   <li>https://www.youtube.com/channel/UCWDS_TTlhK_T3aTUV-23I6Q</li>
-  <li>https://leetcode.com/devashishkumar</li>
 </ul>
 
 <!--
