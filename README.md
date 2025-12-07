@@ -1,5 +1,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{devashishkumar}/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=devashishkumar)
 
 ### Hi there 👋
 
