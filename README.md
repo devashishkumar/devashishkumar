@@ -1,12 +1,14 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{devashishkumar}/count.svg)
 
-### Hi there 👋
+![Visitor Count](https://komarev.com/ghpvc/?username=devashishkumar)
 
-✨ My name is Ashish Kumar  
+### Hi There 👋
+
+✨ My name is Ashish  
 ✨ I'm a Full Stack Developer, Open Source Contributor, Blogger, npm packages developer, YouTuber  
 ✨ Hobbies: Contribution in open source projects, blogging, develop npm packages, part time YouTuber  
-✨ Expertise: Angular, TypeScript, Vue JS, Docker, Node JS, Express JS, LoopBack API, MongoDB, MongoDB Cloud, GraphQL, PHP, Laravel, Lumen API Framework, MySQL, JavaScript, jQuery, PWA developer  
+✨ Expertise: Angular, React Generative AI, Vue JS, JavaScript, TypeScript, Node JS, Express JS, LoopBack API, MongoDB, MongoDB Cloud, MongoDB Atlas, GraphQL, PHP, Laravel, Lumen API Framework, MySQL
 
 <hr/>
 
@@ -48,7 +50,7 @@
 
 <hr/>
 
-📜 Latest YouTube Videos
+📜 YouTube Videos
 
 <ul>
   <li>https://www.youtube.com/watch?v=39DqOhkyt1I Advance MongoDB (MongoDB Cloud)</li>
