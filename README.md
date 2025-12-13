@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![](https://github.com/devashishkumar/devashishkumar/blob/main/chat.svg)](https://twitter.com/devashishkumar)
 
- <h3 align="center">A techie passionate about Node JS, React, Angular, JavaScript, MongoDB, Generative AI and other Open Source Technologies</h3>
+ <h3 align="center">A techie passionate about Node JS, React, Angular, JavaScript, TypeScript, MongoDB, Generative AI and other Open Source Technologies</h3>
 
 <p align="center">
   <a href="https://beautiful-github-homepage.vercel.app/api?username=devashishkumar&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true"><picture><img height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=devashishkumar&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Ashish" /></picture></a>
