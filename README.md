@@ -11,9 +11,7 @@
 
 <br>
 
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devashishkumar)](https://git.io/streak-stats)
-
 
 - I have interests in Node JS, React, Angular, JavaScript, MongoDB, Generative AI and other Open Source Technologies
 - I’m currently working as Full Stack Developer
