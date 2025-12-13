@@ -6,9 +6,9 @@
 <p align="center">
   <a href="https://beautiful-github-homepage.vercel.app/api?username=devashishkumar&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true"><picture><img height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=devashishkumar&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Ashish" /></picture></a>
   <a href="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=devashishkumar&hide_title=false&layout=compact&theme=gotham&count_private=true"><picture><img height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=devashishkumar&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
- ![GitHub Streak](https://streak-stats.demolab.com/?user=devashishkumar)
 </p>
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=devashishkumar)
 
 <br>
 
