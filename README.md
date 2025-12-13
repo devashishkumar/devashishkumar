@@ -1,82 +1,167 @@
+### Hi there 👋
+[![](https://github.com/devashishkumar/devashishkumar/blob/main/chat.svg)](https://twitter.com/devashishkumar)
 
-![Visitor Count](https://profile-counter.glitch.me/{devashishkumar}/count.svg)
+ <h3 align="center">A techie passionate about Node JS, React, Angular, JavaScript, MongoDB, Generative AI and other Open Source Technologies</h3>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=devashishkumar)
+<p align="center">
+  <a href="https://beautiful-github-homepage.vercel.app/api?username=devashishkumar&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true"><picture><img height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=devashishkumar&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Ashish" /></picture></a>
+  <a href="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=devashishkumar&hide_title=false&layout=compact&theme=gotham&count_private=true"><picture><img height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=devashishkumar&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
+</p>
 
-### Hi There 👋
 
-✨ My name is Ashish  
-✨ I'm a Full Stack Developer, Open Source Contributor, Blogger, npm packages developer, YouTuber  
-✨ Hobbies: Contribution in open source projects, blogging, develop npm packages, part time YouTuber  
-✨ Expertise: Angular, React Generative AI, Vue JS, JavaScript, TypeScript, Node JS, Express JS, LoopBack API, MongoDB, MongoDB Cloud, MongoDB Atlas, GraphQL, PHP, Laravel, Lumen API Framework, MySQL
+<br>
 
-<hr/>
 
-📜 Recent Projects
-<ul>
-  <li>https://github.com/devashishkumar/vue-js-corona-tracker-app Vue Corona Tracker India</li>
-  <li>https://github.com/devashishkumar/react-corona-tracker-app-india React Corona Tracker India</li>
-  <li>https://github.com/devashishkumar/expressjs-swagger-setup Swagger Setup in Node JS</li>
-</ul>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=devashishkumar)](https://git.io/streak-stats)
 
-<hr/>
 
-📜 Recent blog posts
+- I have interests in Node JS, React, Angular, JavaScript, MongoDB, Generative AI and other Open Source Technologies
+- I’m currently working as Full Stack Developer
+- Expertise: Angular, React, Generative AI, Vue JS, JavaScript, TypeScript, Node JS, Express JS, LoopBack API, MongoDB, MongoDB Cloud, MongoDB Atlas, GraphQL, PHP, Laravel, Lumen API Framework, MySQL
 
-<ul>
-  <li>https://ashishkumar.hashnode.dev/what-is-openai What is OpenAI</li>
-  <li>https://ashishkumar.hashnode.dev/how-to-use-mongo-docker-image how to use mongo docker image</li>
-  <li>https://ashishkumar.hashnode.dev/deploy-docker-image-to-heroku deploy docker image to heroku</li>
-  <li>https://ashishkumar.hashnode.dev/angular-docker create angular docker container</li>
-  <li>https://ashishkumar.hashnode.dev/node-js-cors enable cors in node/express application</li>
-  <li>https://ashishkumar.hashnode.dev/vue-js-dom-management Vue DOM Management</li>
-  <li>https://ashishkumar.hashnode.dev/create-child-component-reference-in-vue Child component reference in Vue</li>
-  <li>https://ashishkumar.hashnode.dev/setup-multiple-swagger-url-in-node-js-application Setup multiple swagger URL in node/express application</li>
-</ul>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ashish+Kumar" alt="Ashish" /></a>
+  <a href="https://github.com/devashishkumar/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=NodeJS/Angular/React/MongoDB/AI;12%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
-<hr/>
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.npmjs.com/~codewithashish" target="_blank"><img width="32px" alt="npm" title="npm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ashishkumar.hashnode.dev/" title="_blank"><img width="32px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592977386906/ovfhUTMtA.png?auto=compress"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.youtube.com/channel/UCWDS_TTlhK_T3aTUV-23I6Q" target="_blank"><img width="32px" alt="YouTube" title="devashishkumar" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/YouTube_social_white_square_%282024%29.svg/250px-YouTube_social_white_square_%282024%29.svg.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
-📜 npm packages
+<br/>
 
-<ul>
-  <li>https://www.npmjs.com/package/gantt-chart-angular Angular gantt chart library</li>
-  <li>https://www.npmjs.com/package/file-saver-angular Export data to csv/excel in angular</li>
-  <li>https://www.npmjs.com/package/google-maps-angular Angular Google maps library</li>
-  <li>https://www.npmjs.com/package/chart-angular Angular chart library based on Chart JS</li>
-  <li>https://www.npmjs.com/package/file-upload-angular Angular single/multiple file uploader</li>
-  <li>https://www.npmjs.com/package/google-maps-vue-library Vue Google maps library</li>
-  <li>https://www.npmjs.com/package/vue-file-upload-library Vue file upload library</li>
-</ul>
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/devashishkumar/custom-icon-badges -->
+<!-- View counter - https://github.com/devashishkumar/Simple-View-Counter -->
+<p align="center">
+  <a href="https://github.com/devashishkumar?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/devashishkumar?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/devashishkumar?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/devashishkumar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/devashishkumar/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=devashishkumar"/></a>
+</p>
 
-<hr/>
+<br/>
 
-📜 YouTube Videos
+<details> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
 
-<ul>
-  <li>https://www.youtube.com/watch?v=39DqOhkyt1I Advance MongoDB (MongoDB Cloud)</li>
-</ul>
+  <h3>🔥 Streak Stats</h3>
 
-<hr/>
+  <br/>
 
-📜 npm profile, Blog and YouTube channel profile
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/devashishkumar/github-readme-activity-graph -->
 
-<ul>
-  <li>https://www.npmjs.com/~codewithashish</li>
-  <li>https://ashishkumar.hashnode.dev</li>
-  <li>https://www.youtube.com/channel/UCWDS_TTlhK_T3aTUV-23I6Q</li>
-</ul>
+  <a href="https://github.com/devashishkumar/github-readme-activity-graph"><img alt="devashishkumar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=devashishkumar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-<!--
-**devashishkumar/devashishkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</details>
 
-Here are some ideas to get you started:
+# 💻 My favorite tools and technologies
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+      <br>Vue
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+      <br>jQuery
+    </td>
+  </tr>
+  <tr>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+<td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
+      <br>GraphQL
+    </td>
+  </tr>
+</table>
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</div>
+
+
+<p align="center">
+
+<a href="https://github.com/devashishkumar?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=devashishkumar&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" alt="Ashish github-readme-stats"/></a>
+<a href="https://github.com/devashishkumar?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=devashishkumar&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="Ashish github-readme-streak-stats"/></a>
+
+</p>
+
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://github.com/devashishkumar">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=devashishkumar&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+
+<br/>  
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=devashishkumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=devashishkumar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devashishkumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=devashishkumar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=devashishkumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
+<br/>  
