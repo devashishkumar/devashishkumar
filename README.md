@@ -14,7 +14,7 @@
 
 - I have interests in Node JS, React, Angular, JavaScript, MongoDB, Generative AI and other Open Source Technologies
 - I’m currently working as Full Stack Developer
-- Expertise: Angular, React, Generative AI, Vue JS, JavaScript, TypeScript, Node JS, Express JS, LoopBack API, MongoDB, MongoDB Cloud, MongoDB Atlas, GraphQL, PHP, Laravel, Lumen API Framework, MySQL
+- Expertise in Angular, React, Generative AI, Vue JS, JavaScript, TypeScript, Node JS, Express JS, LoopBack API, MongoDB, MongoDB Cloud, MongoDB Atlas, GraphQL, PHP, Laravel, Lumen API Framework, MySQL
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ashish+Kumar" alt="Ashish" /></a>
