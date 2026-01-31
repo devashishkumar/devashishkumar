@@ -10,7 +10,7 @@ Specialized in modern web technologies including Angular, React, Node.js, TypeSc
 
 - **Current Role**: Technical Architect | Full-Stack Developer
 - **Core Expertise**:
-  - **Frontend**: Angular, React, Vue.js, JavaScript, TypeScript, HTML5
+  - **Frontend**: Angular, React, Vue.js, JavaScript, TypeScript
   - **Backend**: Node.js, Express.js, LoopBack API
   - **Databases**: MongoDB, MongoDB Atlas, MySQL
   - **Additional**: GraphQL, PHP, Laravel, Lumen API Framework, Generative AI
