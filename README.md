@@ -100,17 +100,24 @@ Specialized in modern web technologies including Angular, React, Node.js, TypeSc
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Profile Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devashishkumar&theme=github_dark" width="80%" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devashishkumar&theme=dark&hide_border=true&show_icons=true&count_private=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devashishkumar&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="80%" />
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devashishkumar&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=devashishkumar&theme=highcontrast&hide_border=true" width="80%"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devashishkumar&theme=dark&hide_border=true&layout=compact&count_private=true)
+<table width="95%">
+<tr>
+<td width="45%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devashishkumar&theme=github_dark" width="80%" />
+</td>
+<td width="45%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devashishkumar&theme=github_dark" width="80%" />
+</td>
+</table>
 
 > **Note**: Language metrics reflect the composition of public repositories and do not represent proficiency levels or experience.
-
----
 
 ## 🏆 Notable Contributions
 
