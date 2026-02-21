@@ -36,7 +36,8 @@ Specialized in modern web technologies including Angular, React, Node.js, TypeSc
     <img alt="Stars" src="https://custom-icon-badges.demolab.com/github/stars/devashishkumar?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   &nbsp;
   <a href="https://github.com/devashishkumar?tab=followers">
-    <img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/devashishkumar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+    <img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/devashishkumar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=devashishkumar&color=FFD700&style=for-the-badge&label=Profile+Views" />
 </p>
 
 ---
