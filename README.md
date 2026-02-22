@@ -19,7 +19,7 @@
   - **Frontend**: Angular, React, Vue.js, JavaScript, TypeScript
   - **Backend**: Node.js, Express.js, LoopBack API
   - **Databases**: MongoDB, MongoDB Atlas, MySQL
-  - **Additional**: GraphQL, PHP, Laravel, Lumen API Framework, Generative AI
+  - **Additional**: Generative AI, GraphQL, PHP, Laravel, Lumen API Framework
 
 ##
 
