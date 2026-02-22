@@ -159,7 +159,7 @@
 <!-- Animated Footer -->
 
 <p style="text-align:center; font-size:18px; font-style:italic;">
-🧘 “Behind every seamless product is a thoughtful architecture.”
+🧱 “Behind every seamless product is a thoughtful architecture.”
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
