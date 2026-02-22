@@ -125,11 +125,20 @@
 
 
 ## 📊 GitHub Profile Summary
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devashishkumar&theme=github_dark" width="95%" />
+</p>
+
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devashishkumar&bg_color=000000&color=FFD700&line=FFD700&point=C0C0C0&area=true&hide_border=true" width="95%"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=devashishkumar&theme=highcontrast&hide_border=true" width="90%"/>
+</p>
 
 <table width="95%">
-<tr width="80%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devashishkumar&theme=github_dark" width="90%" />
-</tr>
 <tr>
 <td width="50%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devashishkumar&theme=github_dark" width="90%" />
@@ -142,13 +151,6 @@
 </td>
 </table>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devashishkumar&bg_color=000000&color=FFD700&line=FFD700&point=C0C0C0&area=true&hide_border=true" width="95%"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=devashishkumar&theme=highcontrast&hide_border=true" width="90%"/>
-</p>
 
 ##
 </td>
