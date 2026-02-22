@@ -110,7 +110,7 @@
 <td width="52%" valign="top">
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=420&lines=Open%20Source%20Contributor;Technical%20Architect%20%7C%20Full%20Stack%20Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=420&lines=Open%20Source%20Contributor;Technical%20Architect%20%7C%20Full-Stack%20Developer" />
 </p>
 
 </div>
