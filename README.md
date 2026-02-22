@@ -135,18 +135,18 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=devashishkumar&theme=highcontrast&hide_border=true" width="90%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=devashishkumar&theme=highcontrast&hide_border=true" width="95%"/>
 </p>
 
 <table width="95%">
 <tr>
-<td width="50%">
+<td width="80%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devashishkumar&theme=github_dark" width="90%" />
 </td>
 </table>
 
 <table width="95%">
-<td width="50%">
+<td width="80%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devashishkumar&theme=github_dark" width="90%" />
 </td>
 </table>
