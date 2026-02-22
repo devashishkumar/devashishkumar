@@ -86,44 +86,6 @@
 
 ##
 
-## 📊 GitHub Profile Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devashishkumar&theme=github_dark" width="90%" />
-
-<table width="95%">
-<tr>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devashishkumar&theme=github_dark" width="90%" />
-</td>
-</table>
-
-<table width="95%">
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devashishkumar&theme=github_dark" width="90%" />
-</td>
-</tr>
-</table>
-
-
-</td>
-
-<!-- RIGHT PANEL -->
-<td width="52%" valign="top">
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=420&lines=Open%20Source%20Contributor;Technical%20Architect%20%7C%20Full-Stack%20Developer" />
-</p>
-
-</div>
-
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devashishkumar&bg_color=000000&color=FFD700&line=FFD700&point=C0C0C0&area=true&hide_border=true" width="95%"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=devashishkumar&theme=highcontrast&hide_border=true" width="90%"/>
-</p>
-
 ## 🔗 Connect
 
 <p align="center">
@@ -143,6 +105,49 @@
   <a href="https://github.com/devashishkumar?tab=followers">
     <img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/devashishkumar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=devashishkumar&color=FFD700&style=for-the-badge&label=Profile+Views" />
+</p>
+
+
+</tr>
+</table>
+
+
+</td>
+
+<!-- RIGHT PANEL -->
+<td width="52%" valign="top">
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=420&lines=Open%20Source%20Contributor;Technical%20Architect%20%7C%20Full-Stack%20Developer" />
+</p>
+
+</div>
+
+
+## 📊 GitHub Profile Summary
+
+<table width="95%">
+<tr width="80%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devashishkumar&theme=github_dark" width="90%" />
+</tr>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devashishkumar&theme=github_dark" width="90%" />
+</td>
+</table>
+
+<table width="95%">
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devashishkumar&theme=github_dark" width="90%" />
+</td>
+</table>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devashishkumar&bg_color=000000&color=FFD700&line=FFD700&point=C0C0C0&area=true&hide_border=true" width="95%"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=devashishkumar&theme=highcontrast&hide_border=true" width="90%"/>
 </p>
 
 ##
