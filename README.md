@@ -87,18 +87,18 @@
 ##
 
 ## 📊 GitHub Profile Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devashishkumar&theme=github_dark" width="80%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devashishkumar&theme=github_dark" width="90%" />
 
 <table width="95%">
 <tr>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devashishkumar&theme=github_dark" width="80%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devashishkumar&theme=github_dark" width="90%" />
 </td>
 </table>
 
 <table width="95%">
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devashishkumar&theme=github_dark" width="80%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devashishkumar&theme=github_dark" width="90%" />
 </td>
 </tr>
 </table>
