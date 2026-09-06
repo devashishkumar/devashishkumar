@@ -16,10 +16,12 @@
 
 - **Current Role**: Technical Architect | Full-Stack Developer
 - **Core Expertise**:
+  - 🔭 **Current Focus:** Building practical AI agents, Model Context Protocol (MCP) servers, and scalable web apps.
+  - ⚙️ **Core Tech Stack:**
   - **Frontend**: Angular, React, Vue.js, JavaScript, TypeScript
-  - **Backend**: Node.js, Express.js, LoopBack API
-  - **Databases**: MongoDB, MongoDB Atlas, MySQL
-  - **Additional**: Generative AI, GraphQL, PHP, Laravel, Lumen API Framework
+  - **Backend**: Node.js, Express.js, GraphQL, PHP, Laravel, Lumen API Framework, LoopBack API
+  - **Databases**: MongoDB, MongoDB Atlas, MongoDB Compass, MySQL
+  - **AI & Integrations:** LangChain, OpenRouter, Google Gemini APIs, OpenAI, Claude AI, MCP (Model Context Protocol)
 
 ##
 
