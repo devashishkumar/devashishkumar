@@ -10,7 +10,7 @@
 
 ## 🎯 Professional Summary
 
-**Specialized in modern web technologies including Angular, React, Node.js, TypeScript, MongoDB, and Generative AI. Committed to building scalable solutions and contributing to open-source ecosystems.**
+**Specialized in modern web technologies including Angular, React, Node.js, TypeScript, MongoDB, and Generative AI. Committed to building scalable solutions and contributing to open-source ecosystems. LLM orchestration (LangChain, OpenRouter, Google Gemini, OpenAI, Claude AI), and Model Context Protocol (MCP) implementations.**
 
 ##
 
